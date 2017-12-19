@@ -1,0 +1,24 @@
+eKYC OTP Service Request
+
+{
+	"AadharNumber":"361656301340"
+	
+
+}
+
+
+eKYC OTP Service Response
+
+{"OTPRes": {"KeyValueOfstringstring": [
+	{
+	"Key": "Success",
+	"Value": "OTP Sent "
+},
+	{
+	"Key": "TransactionId",
+	"Value": "20171202T0339015706310"
+}
+]}}
+
+
+}

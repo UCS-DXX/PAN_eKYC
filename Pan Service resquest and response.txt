@@ -1,0 +1,19 @@
+Pan Service Request
+
+{
+
+"pannumber":"acqpn4000z",
+"channel":"esb"
+}
+
+Pan Service Response
+
+{"PANRes":{
+	"id": "1",
+	"panNo": "acqpn4000z",
+	"exist": "E",
+	"lastname": "_LastName_",
+	"firstname": "_firstName_",
+	"title": "_Title_",
+	"issueDate": "_dd/mm/yyyy"
+}}
